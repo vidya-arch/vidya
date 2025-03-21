@@ -1,3 +1,5 @@
 today is friday
 and we are having 
 devops lab today
+weather is
+very hot
